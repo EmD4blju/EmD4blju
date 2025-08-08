@@ -27,4 +27,4 @@
 </p>
 
 <h2>🔎 Check out more</h2>
-<div align="center"><a href="https://portfolio-web-app-36e15.firebaseapp.com/">Portfolio website</a></div>
+<div align="center"><a href="https://portfolio-web-app-36e15.firebaseapp.com/">Portfolio website ⚠️ In development</a></div>
