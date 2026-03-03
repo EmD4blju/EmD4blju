@@ -1,7 +1,7 @@
 <h1 align="center">👋Hi, I am EmDablju</h1>
 
-<h3 align="center">AI Intern - Tutore</h3>
-<h3 align="center">Engineering student - Polish-Japanese Academy of Information Technology</h3>
+<h3 align="center">Data Engineer</h3>
+<h3 align="center">Master's student - Polish-Japanese Academy of Information Technology</h3>
 
 <h2>🚀 Most experience</h2>
 <p align="center">
